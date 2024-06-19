@@ -1,0 +1,9 @@
+/* Estilos básicos para a página de catálogo de animes */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #000; /* Cor de fundo preta */
+  color: 		#FFC300; /* Cor do texto roxo claro */
+}

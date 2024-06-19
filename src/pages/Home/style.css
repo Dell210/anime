@@ -1,0 +1,75 @@
+
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  nav ul {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  nav ul li {
+    margin-right: 20px;
+  }
+  
+  section {
+    margin-bottom: 60px; /* Aumenta o espaçamento entre as seções */
+  }
+  
+  .section-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .section-content {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .section-content a {
+    color: 	#FF0000; /* Cor dos links roxo mais escuro */
+    text-decoration: none;
+  }
+  
+  .section-content a:hover {
+    text-decoration: underline;
+  }
+  
+  button, a {
+    background-color: 	#fff000; /* Cor de fundo amarela */
+    color: #000; /* Cor do texto preta */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  button:hover, a:hover {
+    background-color: 		#FFFFff; /* Cor de fundo amarela mais escura ao passar o mouse */
+  }
+  .anime-img {
+    width: 24%;
+    overflow: hidden; /* Garante que as imagens não ultrapassem o contêiner */
+  }
+  
+  .anime-img img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease; /* Adiciona o efeito de transição de escala */
+  }
+  
+  .anime-img img:hover {
+    transform: scale(1.05); /* Aumenta ligeiramente a escala ao passar o mouse */
+  }
+  
+  .anime-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
