@@ -32,7 +32,7 @@ function Home({ handleSwitch}:Props) {
             <img src="src/assets/Dragon-Ball-Z.webp" alt="Anime 3" />
           </div>
           <div className="anime-img">
-            <img src="src/assets/20240307-naruto-shippuden-episodio-naruto-sasuke-lutam.webp" alt="Anime 4" />
+            <img src="./src/assets/20240307-naruto-shippuden-episodio-naruto-sasuke-lutam.webp" alt="Anime 4" />
           </div>
         </section>
         <section id="animes">
