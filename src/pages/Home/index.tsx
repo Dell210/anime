@@ -23,16 +23,16 @@ function Home({ handleSwitch}:Props) {
       <main>
         <section id="inicio" className="anime-section">
           <div className="anime-img">
-            <img src="src/assets/6b17182a3518d7406f0e69687f773f4f.jpe" alt="Anime 1" />
+            <img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/8b7f5847f9b97f921e41d4ef59fd2d79.jpe" alt="Anime 1" />
           </div>
           <div className="anime-img">
-            <img src="src/assets/a249096c7812deb8c3c2c907173f3774 (1).jpe" alt="Anime 2" />
+            <img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/6b17182a3518d7406f0e69687f773f4f.jpe" alt="Anime 2" />
           </div>
           <div className="anime-img">
-            <img src="src/assets/Dragon-Ball-Z.webp" alt="Anime 3" />
+            <img src="https://img.odcdn.com.br/wp-content/uploads/2022/07/Dragon-Ball-Z.webp" alt="Anime 3" />
           </div>
           <div className="anime-img">
-            <img src='assets/20240307-naruto-shippuden-episodio-naruto-sasuke-lutam.webp' alt="Anime 4" />
+            <img src='https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/a249096c7812deb8c3c2c907173f3774.jpe' alt="Anime 4" />
           </div>
         </section>
         <section id="animes">
